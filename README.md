@@ -1,6 +1,6 @@
 ~~~
-Developed by:Mohamed Sameem S
-RegisterNumber:212225040242 
+Developed by:Naveen Kumar V
+RegisterNumber:212225040277
 ~~~
 
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
